@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: How to Join
 description: And build something with us
 nav-menu: true
