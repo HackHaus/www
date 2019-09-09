@@ -4,6 +4,7 @@ title: Who We Are
 description: And how we got started
 nav-menu: true
 image: assets/images/tinceiling.jpg
+menu-order: 1
 ---
 
 <!-- Main -->

@@ -1,12 +1,13 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Blog
+landing-title: 'Blog'
 nav-menu: false
-description: null
+description: Blog
 image: null
 author: null
 show_tile: false
+menu-order: 99
 ---
 
 <h1>All posts</h1>

@@ -1,9 +1,10 @@
 ---
+layout: page
 title: How to Join
-layout: landing
-description: 'And build something with us'
-image: assets/images/pic07.jpg
+description: And build something with us
 nav-menu: true
+image: assets/images/pic07.jpg
+menu-order: 3
 ---
 
 <!-- Main -->
