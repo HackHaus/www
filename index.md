@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Welcome to HackHaus'
 description: null
 image: null
 author: null
 show_tile: false
+subheading: "A human(e) environment"
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Not sure if HackHaus is right for you? Although we have members that help support the space, HackHaus is generally available to the public. If you want to check the space out, meet like minds, or just stop in to use our crypocurrency ATM, all are welcome. We encourage genuine curiosity and exploration!

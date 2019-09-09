@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: How to Join
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'And build something with us'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

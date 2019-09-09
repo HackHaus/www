@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Elements
+title: Who We Are
+description: And how we got started
 nav-menu: true
+image: assets/images/tinceiling.jpg
 ---
 
 <!-- Main -->
