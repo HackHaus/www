@@ -2,8 +2,8 @@
 title: HackHaus
 subtitle: Chicago's Curious Coworking
 email: info@hackha.us
-description: A space for thinkers and thinkerers to collaborate on ideas around sovereign identity, digital rights, and decentralization.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: A space for thinkers and thinkerers to collaborate on sovereign identity, digital rights, and ideas around decentralization.
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://hackha.us" # the base hostname & protocol for your site
 author:
 street_address: 4649 N Broadway St
@@ -11,11 +11,11 @@ city: Chicago
 state: IL
 zip_code: 60640
 country: United States of America
-phone: (312) 620-4649
+phone: +1 (312) 620-4649
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:
