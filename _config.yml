@@ -2,7 +2,7 @@
 title: HackHaus
 subtitle: Chicago's Curious Coworking
 email: info@hackha.us
-description: A space for thinkers and thinkerers to collaborate on sovereign identity, digital rights, and ideas around decentralization.
+description: A space for thinkers and thinkerers to collaborate on sovereign identity, digital rights, and decentralization.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://hackha.us" # the base hostname & protocol for your site
 author:
