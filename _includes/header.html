@@ -20,11 +20,16 @@
  	 	{% assign sorted_pages = site.pages | sort: "menu-order" %}
 		{% for page in sorted_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		        <li><a href="{{ page.url | absolute_url }}">
+{% if page.nav-title %}
+  {{ page.nav-title }}
+{% else %}
+  {{ page.title }}
+{% endif %}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="{{ site.get_started }}" class="button special fit">Get Started</a></li>
+		<li><a href="{{ site.get_started }}" class="button special fit">{{ site.call_to_action }}</a></li>
 	</ul>
 </nav>

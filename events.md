@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Events
-description: A calendar of past/upcoing events
+description: A calendar of happenings
 nav-menu: true
-image: 
-menu-order: 1
+image: assets/images/FL2_framing.jpg
+menu-order: 30
 ---
 
 <!-- Main -->
@@ -26,12 +26,12 @@ menu-order: 1
 
             <h3>Wednesday September 2 / EZBlockchain Meetup</h3>
             <p>
-                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
+                More details to come...
             </p>
 
-            <h3>Thursday September 3 / BitDevs Meetup</h3>
+            <h3>Thursday September 3 / Ethereum Meetup</h3>
             <p>
-                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
+                <a href="https://www.meetup.com/Chicago-Ethereum-Meetup/">Chicago Ethereum Meetup</a> will be holding a meetup.
             </p>
 
 

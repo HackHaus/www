@@ -15,7 +15,7 @@ phone: +1 (312) 620-4649
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 10
+tiles-count: 8
 
 # social settings
 500px_url:
@@ -35,4 +35,9 @@ markdown: kramdown
 sass:
   style: compressed
 
-get_started: "/how.html"
+call_to_action: "Join Us"
+get_started: "/join.html"
+
+collections:
+    members:
+      output: false
