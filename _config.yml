@@ -15,7 +15,7 @@ phone: +1 (312) 620-4649
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 10
 
 # social settings
 500px_url:

@@ -6,7 +6,7 @@ A website for Chicago's HackHaus. Liberally forked and edited from the below bas
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+![Screenshot](assets/images/screenshot.png "Screenshot")
 
 
 ## Credits
