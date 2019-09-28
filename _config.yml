@@ -10,8 +10,9 @@ street_address: 4649 N Broadway St
 city: Chicago
 state: IL
 zip_code: 60640
-country: United States of America
+country: 
 phone: +1 (312) 620-4649
+hours: "Mon-Fri 10a to 5p"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
