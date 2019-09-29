@@ -6,7 +6,7 @@ nav-menu: true
 image: 
 menu-order: 50
 show_tile: false
-published: false
+published: true
 ---
 
 <!-- Main -->

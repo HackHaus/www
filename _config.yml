@@ -36,6 +36,8 @@ markdown: kramdown
 sass:
   style: compressed
 
+future: true
+
 call_to_action: "Join Us"
 get_started: "/join.html"
 
